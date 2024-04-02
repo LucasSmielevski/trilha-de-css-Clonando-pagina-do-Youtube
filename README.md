@@ -1,2 +1,2 @@
-# trilha-de-css-Clonando-pagina-do-Youtube
- Clonando a página do youtube
+# Desafio de Flexbox do curso da DIO
+ Clonando a página do youtube usando a propriedade Flexbox
